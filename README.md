@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: <a href="benedict.velasco@outlook.com">Email</a>, <a href="https://www.linkedin.com/in/benedict-velasco-40743467/">Linkedin</a>
-- 🌱 I’m currently learning <a href="https://flutter.dev/">Flutter</a> and <a href="https://laravel.com/">Laravel PHP</a>.
+- 🌱 I’m currently learning <a href="https://react.dev/learn">React.js</a> and <a href="https://nextjs.org/">Next.js</a>.
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benNthen&show_icons=true&locale=en&layout=compact" alt="stats" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=benNthen&count_private=true&show_icons=true" />
